@@ -1,4 +1,4 @@
-package br.com.totustuus.audioparatexto;
+package br.com.totustuus.audioparatexto.ui.activity;
 
 import android.annotation.SuppressLint;
 import android.content.DialogInterface;
@@ -24,6 +24,8 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 import java.util.Locale;
+
+import br.com.totustuus.audioparatexto.R;
 
 public class MainActivity extends AppCompatActivity {
 
