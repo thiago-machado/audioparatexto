@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Voz Para Texto</string>
+    <string name="MENSAGEM_CAMPO_TEXTO">Aperte no microfone...</string>
+    <string name="Campo_Texto_Alerta">Aperte no microfone para gravar a voz e transcrevê-la...</string>
+</resources>
